@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sivaparvathi106/SivaParvathi-Portfolio.git/static/css/main.4a2d4e29.css",
-    "main.js": "/sivaparvathi106/SivaParvathi-Portfolio.git/static/js/main.a6a2a84b.js",
-    "static/js/453.82e60668.chunk.js": "/sivaparvathi106/SivaParvathi-Portfolio.git/static/js/453.82e60668.chunk.js",
-    "static/media/devicon.svg?iehcku": "/sivaparvathi106/SivaParvathi-Portfolio.git/static/media/devicon.de33ff67547800466a48.svg",
-    "static/media/devicon.woff?iehcku": "/sivaparvathi106/SivaParvathi-Portfolio.git/static/media/devicon.25bdb9cbf8e5f9b4dde9.woff",
-    "static/media/devicon.ttf?iehcku": "/sivaparvathi106/SivaParvathi-Portfolio.git/static/media/devicon.161b6f3376d6ce5c517d.ttf",
-    "index.html": "/sivaparvathi106/SivaParvathi-Portfolio.git/index.html",
-    "main.4a2d4e29.css.map": "/sivaparvathi106/SivaParvathi-Portfolio.git/static/css/main.4a2d4e29.css.map",
-    "main.a6a2a84b.js.map": "/sivaparvathi106/SivaParvathi-Portfolio.git/static/js/main.a6a2a84b.js.map",
-    "453.82e60668.chunk.js.map": "/sivaparvathi106/SivaParvathi-Portfolio.git/static/js/453.82e60668.chunk.js.map"
+    "main.css": "/SivaParvathi-Portfolio/static/css/main.d185b2b6.css",
+    "main.js": "/SivaParvathi-Portfolio/static/js/main.df22c4dc.js",
+    "static/js/453.82e60668.chunk.js": "/SivaParvathi-Portfolio/static/js/453.82e60668.chunk.js",
+    "static/media/devicon.svg?iehcku": "/SivaParvathi-Portfolio/static/media/devicon.de33ff67547800466a48.svg",
+    "static/media/devicon.woff?iehcku": "/SivaParvathi-Portfolio/static/media/devicon.25bdb9cbf8e5f9b4dde9.woff",
+    "static/media/devicon.ttf?iehcku": "/SivaParvathi-Portfolio/static/media/devicon.161b6f3376d6ce5c517d.ttf",
+    "index.html": "/SivaParvathi-Portfolio/index.html",
+    "main.d185b2b6.css.map": "/SivaParvathi-Portfolio/static/css/main.d185b2b6.css.map",
+    "main.df22c4dc.js.map": "/SivaParvathi-Portfolio/static/js/main.df22c4dc.js.map",
+    "453.82e60668.chunk.js.map": "/SivaParvathi-Portfolio/static/js/453.82e60668.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a2d4e29.css",
-    "static/js/main.a6a2a84b.js"
+    "static/css/main.d185b2b6.css",
+    "static/js/main.df22c4dc.js"
   ]
 }
